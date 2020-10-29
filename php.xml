@@ -14,7 +14,7 @@
             <configuration_option name="include_path" value="." />
           </configuration_options>
           <debuggers>
-            <debugger_info debugger="xdebug" debugger_version="2.9.4">
+            <debugger_info debugger="xdebug" debugger_version="2.9.8">
               <debug_extensions />
             </debugger_info>
           </debuggers>
