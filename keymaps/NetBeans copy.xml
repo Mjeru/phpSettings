@@ -1,4 +1,7 @@
 <keymap version="1" name="NetBeans copy" parent="NetBeans 6.5">
+  <action id="ChangeSplitOrientation">
+    <keyboard-shortcut first-keystroke="ctrl alt numpad7" />
+  </action>
   <action id="Console.TableResult.CloneRow">
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
@@ -15,10 +18,19 @@
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="ctrl alt numpad6" />
+  </action>
+  <action id="PrevSplitter">
+    <keyboard-shortcut first-keystroke="ctrl alt numpad4" />
+  </action>
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
   <action id="RunDashboard.CopyConfiguration">
     <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="UnsplitAll">
+    <keyboard-shortcut first-keystroke="ctrl alt numpad9" />
   </action>
   <action id="XDebugger.CopyWatch">
     <keyboard-shortcut first-keystroke="ctrl d" />
