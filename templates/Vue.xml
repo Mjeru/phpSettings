@@ -1,5 +1,5 @@
 <templateSet group="Vue">
-  <template name="log" value=" if (process.env.NODE_ENV === 'development') console.log($END$)" toReformat="false" toShortenFQNames="true">
+  <template name="log" value=" if (process.env.NODE_ENV === 'development') console.log($END$)" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="OTHER" value="true" />
     </context>
