@@ -1,0 +1,7 @@
+<templateSet group="PHP">
+  <template name="pre" value="echo '&lt;pre&gt;';&#10;var_dump($END$);&#10;echo '&lt;pre&gt;';" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
