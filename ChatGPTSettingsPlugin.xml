@@ -2,5 +2,8 @@
   <component name="com.obiscr.chatgpt.settings.OpenAISettingsState">
     <option name="email" value="kos.vad2@gmail.com" />
     <option name="password" value="kosmynin953210" />
+    <option name="accessToken" value="fhf" />
+    <option name="apiKey" value="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" />
+    <option name="assistantApiKey" value="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" />
   </component>
 </application>
