@@ -1,9 +1,15 @@
 <keymap version="1" name="Windows copy" parent="$default">
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl y" />
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
+  <action id="EditorSelectWord" />
   <action id="RecentFiles" />
+  <action id="SmartSelect" />
   <action id="SwitcherIterateItems" />
   <action id="SwitcherRecentEditedChangedToggleCheckBox" />
   <action id="Vcs.ShowMessageHistory">
