@@ -7,6 +7,7 @@
       <mapping pattern="text" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping ext="exe" type="PLAIN_TEXT" />
+      <mapping ext="njk" type="Twig" />
     </extensionMap>
   </component>
 </application>
